@@ -65,6 +65,12 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________________
 
+# Following pictures will help to understand flow of the Application and API's of Library Management Application
+
+# User Data
+<img width="100%" alt="UserData" src="https://github.com/shanukumrawat/LibraryManagementApplication/blob/main/Image/User.png">
+
+
 
 
 
