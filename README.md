@@ -67,13 +67,22 @@ ________________________________________________________________________________
 
 # Following pictures will help to understand flow of the Application and API's of Library Management Application
 
+# Start tomcat Server
+![tomcatServer](https://user-images.githubusercontent.com/101422764/216525231-72c5bf27-35e4-4d9b-b608-722df4c90fa3.png)
+
 # User Data
 ![User](https://user-images.githubusercontent.com/101422764/216524757-f74c9d79-d5e0-4ff9-94c4-7a766490eea2.png)
 
+# Book Data
+![BookData](https://user-images.githubusercontent.com/101422764/216524852-8fae7595-634b-431b-af97-4d3fc207c744.png)
 
+# Issue Book
+* Issue Book API http://localhost:9090/bookIssue/
+ ![IssueBook](https://user-images.githubusercontent.com/101422764/216524947-06e33535-1685-41d3-8661-e010e89ebb8e.png)
 
-
-
+# Return Book 
+* Return Book API http://localhost:9090/bookReturn/{userId}/{bookId}
+![ReturnBook](https://user-images.githubusercontent.com/101422764/216525118-e2083199-4b00-4e88-b1b0-c391102579de.png)
 
 
 
