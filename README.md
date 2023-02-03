@@ -1,4 +1,4 @@
-# LibraryManagementApplication 🌱
+# Library-Management-Application 🌱
 I made a Backend Application to perform operation like Issue book & Return book from library , created RestFul APIs Service Using java, SpringBoot,postman for Library Management Application.
 In this project user can Issue book from the Library and Return book to library if user return book after due date application generate fine.
 
